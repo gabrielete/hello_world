@@ -3,6 +3,7 @@ hello!!
 ho a hoasdjfhlaksdj f
 rama2
 rama2
+rama3
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
